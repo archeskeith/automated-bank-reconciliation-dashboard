@@ -62,7 +62,6 @@ This project transformed the finance team's workflow and delivered significant, 
 
 ```
 ├── python_scripts/
-│   ├── data_cleaning.py
 │   └── reconciliation_logic.py
 ├── sql_queries/
 │   └── extract_transactions.sql
