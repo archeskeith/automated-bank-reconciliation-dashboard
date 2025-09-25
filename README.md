@@ -20,11 +20,16 @@ I designed and built an end-to-end ETL (Extract, Transform, Load) pipeline and a
 
 ## 📊 Dashboard Showcase
 
-Below is a screenshot of the final dashboard, which serves as the primary interface for the finance team. It provides a summary of the reconciliation status and detailed views of any flagged discrepancies.
+The final dashboard provides a multi-layered view for the finance team, from a high-level summary down to the individual transaction details.
 
-![Dashboard Overview](./Untitled%20design.png)
-![Variance Details](./Untitled%20design%20(1).png)
-![Data Table View](./Untitled%20design%20(2).png)
+**1. High-Level Monthly Overview:** The main view tracks the total variance across all banks, allowing for a quick health check.
+![Dashboard Overview](./dashboard-overview.png)
+
+**2. Detailed Variance Analysis:** Users can then drill down into specific variances to understand the scale of the discrepancy for each bank.
+![Variance Details](./variance-details.png)
+
+**3. Transaction-Level Data:** Finally, a table view allows analysts to see the specific, individual transactions that have been flagged, making manual investigation fast and efficient.
+![Data Table View](./data-table-view.png)
 
 ---
 
