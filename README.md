@@ -22,8 +22,6 @@ I designed and built an end-to-end ETL (Extract, Transform, Load) pipeline and a
 
 Below is a screenshot of the final dashboard, which serves as the primary interface for the finance team. It provides a summary of the reconciliation status and detailed views of any flagged discrepancies.
 
-*(**Instructions:** Replace the link below with a link to your actual screenshot. You can upload the image to your GitHub repo and link to it directly.)*
-
 ![Bank Reconciliation Dashboard](https://i.imgur.com/your_screenshot_placeholder.png)
 
 ---
